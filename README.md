@@ -5,7 +5,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 
 # Work Experiences
 
-## Research and Development Machine Learning Engineer at Inria
+## R&D machine learning engineer at Inria
 * From the 1st of February 2025 to the 31st of July 2026. Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
