@@ -10,13 +10,13 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
-* [read about activity](https://github.com/Ludoviccccc/Ludoviccccc.github.io/article_interference.pdf)
+* [read about activity](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf)
 ## Research Internship at French Alternative Energies and Atomic Energy Commission (CEA) - Laboratory of Artificial Intelligence and Data Science (LIAD, SGLS,DM2S, ISAS, DES). 
 * From March to August 2024. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
 * Works provided research tools for the Laboratory of Modeling and Simulation in Fluid Mechanics (CEA).
 * Deep learning methods (computer vision) were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with
 autoencoders.
-* [read about activity](https://github.com/Ludoviccccc/Ludoviccccc.github.io/MatarLudovicRapportDeStageCEA.pdf)
+* [read about activity](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicRapportDeStageCEA.pdf)
 ## Research Internship at Renault SAS. From May to September 2023. Guyancourt, Île-de-France, France
 * From May to September 2023. Guyancourt, Île-de-France, France
