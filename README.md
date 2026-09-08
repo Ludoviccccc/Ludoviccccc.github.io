@@ -1,4 +1,4 @@
-Hey, I am Ludovic Matar. I aspire to work in a domain somewhere between applied mathematics and informatics, that favors healthcare or climate. I graduated from a MSc in applied mathematics specialized in statistics, probability and computer science. I also graduated from an MSc in fluid mechanics.
+Hey, I am Ludovic Matar. I aspire to work in a domain somewhere between applied mathematics and informatics, that favors healthcare or climate. I graduated from a MSc in applied mathematics specialized in statistics, probability and computer science (2022). I also graduated from an MSc in fluid mechanics (2024).
 
 I am currently working as a Research and Development Machine Learning Engineer in Flowers AI & CogSci Lab at the French National Institute for Research in Digital Science and Technology. 
 I am seeking for an research job opportunities such a P.h.D in applied mathematics.
@@ -26,7 +26,7 @@ autoencoders.
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow [read abstract](https://cea.hal.science/cea-05283483v1)
 
 
-## Research Internship at Renault SAS. From May to September 2023. Guyancourt, Île-de-France, France
+## Research Internship at Renault SAS. 
 ![All text](Back_field.png)
 * From May to September 2023. Guyancourt, Île-de-France, France
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
