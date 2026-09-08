@@ -11,7 +11,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
 * [read a summary](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf)
-* [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference_slides.pdf)
+* [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/MatarLudovicPresentationStage.pdf)
 
 
 ## Research Internship at French Alternative Energies and Atomic Energy Commission (CEA) - Laboratory of Artificial Intelligence and Data Science. 
@@ -28,3 +28,5 @@ autoencoders.
 ## Research Internship at Renault SAS. From May to September 2023. Guyancourt, Île-de-France, France
 ![All text](Back_field.png)
 * From May to September 2023. Guyancourt, Île-de-France, France
+* [read slides](Presentation_stage_Renault.pdf)
+* [read slides](rapport_de_stage_renault.pdf)
