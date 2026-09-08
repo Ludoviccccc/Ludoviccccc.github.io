@@ -15,7 +15,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 
 
 ## Research Internship at French Alternative Energies and Atomic Energy Commission (CEA) - Laboratory of Artificial Intelligence and Data Science. 
-![All text](illustrations/boiling_crisis.png)
+![All text](boiling_crisis.png)
 * From March to August 2024. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
 * Works provided research tools for the Laboratory of Modeling and Simulation in Fluid Mechanics (CEA).
