@@ -22,7 +22,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 * Deep learning methods (computer vision) were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with
 autoencoders.
 * [read a summary](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicRapportDeStageCEA.pdf)
-* [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicRapportDeStageCEA.pdf)
+* [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicPresentationStage.pdf)
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow [read abstract](https://cea.hal.science/cea-05283483v1)
 
 
