@@ -23,6 +23,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 autoencoders.
 * [read a summary](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicRapportDeStageCEA.pdf)
 * [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicRapportDeStageCEA.pdf)
+* My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow [read abstract](https://cea.hal.science/cea-05283483v1)
 
 
 ## Research Internship at Renault SAS. From May to September 2023. Guyancourt, Île-de-France, France
