@@ -26,4 +26,5 @@ autoencoders.
 
 
 ## Research Internship at Renault SAS. From May to September 2023. Guyancourt, Île-de-France, France
+![All text](Back_field.png)
 * From May to September 2023. Guyancourt, Île-de-France, France
