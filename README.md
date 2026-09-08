@@ -6,7 +6,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 # Work Experiences
 
 ## R&D machine learning engineer at French National Institute for Research in Digital Science and Technology.
-* From the 1st of February 2025 to the 31st of July 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
+* From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
