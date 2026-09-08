@@ -6,6 +6,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 # Work Experiences
 
 ## R&D machine learning engineer at French National Institute for Research in Digital Science and Technology.
+![All text](Coverage_time_deltas.png)
 * From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
@@ -16,6 +17,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 
 ## Research Internship at French Alternative Energies and Atomic Energy Commission (CEA) - Laboratory of Artificial Intelligence and Data Science. 
 ![All text](boiling_crisis.png)
+Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
 * From March to August 2024. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
 * Works provided research tools for the Laboratory of Modeling and Simulation in Fluid Mechanics (CEA).
