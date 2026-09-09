@@ -11,7 +11,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
-* [read a summary](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf)
+* [read a summary](https://arxiv.org/abs/2609.08729)
 * [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/MatarLudovicPresentationStage.pdf)
 
 
@@ -29,7 +29,7 @@ autoencoders.
 
 
 ## Research Internship at Renault SAS. 
-![All text](Back_field.png)
+<img src="Back_field.png" alt="Back_field" width="300"/>
 * From May to September 2023. Guyancourt, Île-de-France, France
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
 For a given shape modification, we want to predict the aerodynamic drag coefficient of vehicles. Drag is the force that opposes the movement of a vehicle as it moves; it is due to the friction of fluid particles in the air. The coefficient Cx is commonly used in the automotive industry for performance and consumption benefits.
