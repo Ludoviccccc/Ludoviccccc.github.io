@@ -5,7 +5,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 
 # Work Experiences
 
-## R&D machine learning engineer at French National Institute for Research in Digital Science and Technology.
+## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
 <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/>
 * From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms.
@@ -15,10 +15,10 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 * [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/MatarLudovicPresentationStage.pdf)
 
 
-## Research Internship at French Alternative Energies and Atomic Energy Commission (CEA) - Laboratory of Artificial Intelligence and Data Science. 
+## French Alternative Energies and Atomic Energy Commission (CEA) - Research Intern
 ![All text](boiling_crisis.png)
 Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
-* From March to August 2024. Saclay, Île-de-France, France
+* From March to August 2024 - Laboratory of Artificial Intelligence and Data Science. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
 * Works provided research tools for the Laboratory of Modeling and Simulation in Fluid Mechanics (CEA).
 * Deep learning methods (computer vision) were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with
@@ -28,7 +28,7 @@ autoencoders.
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow [read abstract](https://cea.hal.science/cea-05283483v1)
 
 
-## Research Internship at Renault SAS. 
+## Renault SAS - Research Intern
 <img src="Back_field.png" alt="Back_field" width="300"/>
 * From May to September 2023. Guyancourt, Île-de-France, France
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
