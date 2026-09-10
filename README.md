@@ -6,7 +6,11 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 # Work Experiences
 
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
-<img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+ <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="stats_behaviors_evolution.png" alt="stats_behaviors_evolution" width="300"/>
+
+
 * From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
