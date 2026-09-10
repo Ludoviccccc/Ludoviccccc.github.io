@@ -34,6 +34,7 @@ autoencoders.
 
 ## Renault SAS - Research Intern
 <img src="Back_field.png" alt="Back_field" width="300"/>
+
 * From May to September 2023. Guyancourt, Île-de-France, France
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
 For a given shape modification, we want to predict the aerodynamic drag coefficient of vehicles. Drag is the force that opposes the movement of a vehicle as it moves; it is due to the friction of fluid particles in the air. The coefficient Cx is commonly used in the automotive industry for performance and consumption benefits.
