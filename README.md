@@ -38,5 +38,6 @@ autoencoders.
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
 For a given shape modification, we want to predict the aerodynamic drag coefficient of vehicles. Drag is the force that opposes the movement of a vehicle as it moves; it is due to the friction of fluid particles in the air. The coefficient Cx is commonly used in the automotive industry for performance and consumption benefits.
 My contribution was the study of dimensionality reduction techniques for obtaining a reduced space when exploiting CFD data and help to synthesis a linear algebra based solution involving optimal transport.
+
 * [read a summary](rapport_de_stage_renault.pdf)
 * [read slides](Presentation_stage_Renault.pdf)
