@@ -17,8 +17,8 @@ Space coverage of a simulated architecture interference behavior space controlle
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressor and reinforcement learning.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
-* Previous Work on arxiv: Application of curiosity driven exploration methods for hardware interference identification
-Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer [read](https://arxiv.org/abs/2609.08729)
+* Previous Work on arxiv: *Application of curiosity driven exploration methods for hardware interference identification
+Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* [read](https://arxiv.org/abs/2609.08729)
 * [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/MatarLudovicPresentationStage.pdf)
 
 
@@ -33,7 +33,7 @@ autoencoders.
 * [read a summary](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicRapportDeStageCEA.pdf)
 * [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicPresentationStage.pdf)
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow :
-Boiling phenomena analysis using machine learning. Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc [read abstract](https://cea.hal.science/cea-05283483v1)
+* Boiling phenomena analysis using machine learning. *Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc* [read abstract](https://cea.hal.science/cea-05283483v1)
 
 
 ## Renault SAS - Research Intern
