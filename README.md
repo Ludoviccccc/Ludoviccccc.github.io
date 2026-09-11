@@ -19,7 +19,6 @@ Space coverage of a simulated architecture interference behavior space controlle
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
 * Previous Work on arxiv: *Application of curiosity driven exploration methods for hardware interference identification
 Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* [read](https://arxiv.org/abs/2609.08729)
-* [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/MatarLudovicPresentationStage.pdf)
 
 
 ## French Alternative Energies and Atomic Energy Commission (CEA) - Research Intern
