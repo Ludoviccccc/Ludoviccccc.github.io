@@ -13,7 +13,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 Space coverage of a simulated architecture interference behavior space controlled by pairs of simplified assembly instructions executed on parallel on two cores. IMGEP sampling distributions allow the discovery of many more behaviors than random sampling distributions.
 
 
-* From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
+* From the 1st of February 2025 to the 30st of November 2026. [Flowers AI & CogSci Lab](https://www.inria.fr/en/flowers-ai-humans-curiosity-learning-cognitive-science). Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressors and reinforcement learning.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
@@ -30,7 +30,7 @@ Trajectory of a high speed shadowgraphy video in the 2D latent space of the auto
 * Deep learning methods (computer vision) were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with
 autoencoders.
 * [read a summary](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicRapportDeStageCEA.pdf)
-* [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/article_interference.pdf/MatarLudovicPresentationStage.pdf)
+* [read slides](https://github.com/Ludoviccccc/Ludoviccccc.github.io/blob/master/MatarLudovicPresentationStage.pdf)
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow :
 * Boiling phenomena analysis using machine learning. *Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc* [read abstract](https://cea.hal.science/cea-05283483v1)
 
