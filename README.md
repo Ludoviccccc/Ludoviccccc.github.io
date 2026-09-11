@@ -6,8 +6,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 # Work Experiences
 
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+
  <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
 
 
