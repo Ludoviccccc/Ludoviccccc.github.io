@@ -9,6 +9,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 
  <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
  <img src="resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="simulator.png" alt="simulator" width="300"/>
+Space coverage of a simulated architecture interference behavior space controlled by pairs of simplified assembly instructions executed on parallel on two cores. IMGEP sampling distributions allow the discovery of many more behaviors than random sampling distributions.
 
 
 * From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
