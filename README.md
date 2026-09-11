@@ -1,4 +1,4 @@
-Hey, I am Ludovic Matar. I aspire to work in a domain somewhere between applied mathematics and informatics, that favors healthcare or climate. I graduated from a MSc in applied mathematics specialized in statistics, probability and computer science (2022). I also graduated from an MSc in fluid mechanics (2024).
+Hi, I am Ludovic Matar. I aspire to work in a domain somewhere between applied mathematics and informatics, that favors healthcare or climate. I graduated from a MSc in applied mathematics specialized in statistics, probability and computer science (2022). I also graduated from an MSc in fluid mechanics (2024).
 
 I am currently working as a Research and Development Machine Learning Engineer in Flowers AI & CogSci Lab at the French National Institute for Research in Digital Science and Technology. 
 I am seeking for an research job opportunities such a P.h.D in applied mathematics.
@@ -8,6 +8,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
 
  <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
+ <img src="resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
 
 
 * From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
@@ -33,6 +34,7 @@ autoencoders.
 
 ## Renault SAS - Research Intern
 <img src="Back_field.png" alt="Back_field" width="300"/>
+<img src="Profile_field.png" alt="Profile_field" width="300"/>
 
 * From May to September 2023. Guyancourt, Île-de-France, France
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
