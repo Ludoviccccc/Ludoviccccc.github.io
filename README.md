@@ -33,8 +33,8 @@ autoencoders.
 
 
 ## Renault SAS - Research Intern
-<img src="Back_fields.png" alt="Back_fields" width="300"/>
-<img src="Profile_field.png" alt="Profile_field" width="300"/>
+<img src="Back_field.png" alt="Back_field" width="300"/>
+<img src="Profile_fields.png" alt="Profile_fields" width="300"/>
 
 * From May to September 2023. Guyancourt, Île-de-France, France
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
