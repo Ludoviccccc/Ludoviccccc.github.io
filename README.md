@@ -38,6 +38,7 @@ autoencoders.
 ## Renault SAS - Research Intern
 <img src="Back_field.png" alt="Back_field" width="300"/>
 <img src="Profile_fields.png" alt="Profile_fields" width="300"/>
+
 One visualizes the rear of a simulated flow behind a car. The adimensionned pressure field is approximated by the first mode of a Proper orthogonal decomposition.
 
 * From May to September 2023. Guyancourt, Île-de-France, France
