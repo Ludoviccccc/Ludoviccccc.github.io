@@ -14,7 +14,7 @@ Space coverage of a simulated architecture interference behavior space controlle
 
 
 * From the 1st of February 2025 to the 30st of November 2026. Flowers AI & CogSci Lab. Inria Center at the University of Bordeaux, France
-* I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressor and reinforcement learning.
+* I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressors and reinforcement learning.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
 * Previous Work on arxiv: *Application of curiosity driven exploration methods for hardware interference identification
@@ -38,6 +38,7 @@ autoencoders.
 ## Renault SAS - Research Intern
 <img src="Back_field.png" alt="Back_field" width="300"/>
 <img src="Profile_fields.png" alt="Profile_fields" width="300"/>
+One visualizes the rear of a simulated flow behind a car. The adimensionned pressure field is approximated by the first mode of a Proper orthogonal decomposition.
 
 * From May to September 2023. Guyancourt, Île-de-France, France
 * Model reduction is a highly discussed topic in the industry. The research internship proposed to develop statistical methods for predicting Cx, in order to simplify calculations. It is a matter of obtaining simpler predictive algorithms, which are less time-consuming and sometimes more robust.
