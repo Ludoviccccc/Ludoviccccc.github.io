@@ -33,7 +33,7 @@ autoencoders.
 
 
 ## Renault SAS - Research Intern
-<img src="Back_field.png" alt="Back_field" width="300"/>
+<img src="Back_fields.png" alt="Back_fields" width="300"/>
 <img src="Profile_field.png" alt="Profile_field" width="300"/>
 
 * From May to September 2023. Guyancourt, Île-de-France, France
