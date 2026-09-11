@@ -8,7 +8,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
 
  <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
- <img src="resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="imgep.png" alt="imgep" width="150"/>
+ <img src="resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="imgep.png" alt="imgep" width="600"/>
 
 Space coverage of a simulated architecture interference behavior space controlled by pairs of simplified assembly instructions executed on parallel on two cores. IMGEP sampling distributions allow the discovery of many more behaviors than random sampling distributions.
 
