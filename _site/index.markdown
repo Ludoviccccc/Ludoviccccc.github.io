@@ -4,7 +4,7 @@ Ludovic Matar
 
 Hi, I am Ludovic Matar. I aspire to work in a domain somewhere between applied mathematics and informatics, that favors healthcare or climate. I graduated from a MSc in applied mathematics specialized in statistics, probability and computer science (2022). I also graduated from an MSc in fluid mechanics (2024).
 
-I am currently working as a Research and Development Machine Learning Engineer in Flowers AI & CogSci Lab at the French National Institute for Research in Digital Science and Technology. 
+I am currently working as a Research and Development Machine Learning Engineer in Flowers AI & CogSci Lab at the French National Institute for Research in Digital Science and Technology (Inria).
 I am seeking for research job opportunities such as a P.h.D in applied mathematics.
 
 # Work Experiences
