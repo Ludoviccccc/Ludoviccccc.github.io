@@ -1,3 +1,7 @@
+Ludovic Matar
+---
+
+
 Hi, I am Ludovic Matar. I aspire to work in a domain somewhere between applied mathematics and informatics, that favors healthcare or climate. I graduated from a MSc in applied mathematics specialized in statistics, probability and computer science (2022). I also graduated from an MSc in fluid mechanics (2024).
 
 I am currently working as a Research and Development Machine Learning Engineer in Flowers AI & CogSci Lab at the French National Institute for Research in Digital Science and Technology. 
@@ -7,8 +11,8 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
 
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
 
- <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
- <img src="resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="imgep.png" alt="imgep" width="600"/>
+ <img src="images/Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="images/stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
+ <img src="images/resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="images/imgep.png" alt="imgep" width="600"/>
 
 Space coverage of a simulated architecture interference behavior space controlled by pairs of simplified assembly instructions executed on parallel on two cores. IMGEP sampling distributions allow the discovery of many more behaviors than random sampling distributions than remain steady during the exploration.
 
@@ -22,7 +26,7 @@ Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* [read](https://arxiv.o
 
 
 ## French Alternative Energies and Atomic Energy Commission - Research Intern
-![All text](boiling_crisis.png)
+![All text](images/boiling_crisis.png)
 Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
 * From March to August 2024 - Laboratory of Artificial Intelligence and Data Science. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
@@ -36,8 +40,8 @@ autoencoders.
 
 
 ## Renault SAS - Research Intern
-<img src="Back_field.png" alt="Back_field" width="300"/>
-<img src="Profile_fields.png" alt="Profile_fields" width="300"/>
+<img src="images/Back_field.png" alt="Back_field" width="300"/>
+<img src="images/Profile_fields.png" alt="Profile_fields" width="300"/>
 
 One visualizes the rear of a simulated flow behind a car. The adimensionned pressure field is approximated by the first mode of a Proper orthogonal decomposition.
 
