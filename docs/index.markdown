@@ -27,6 +27,7 @@ Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* [read](https://arxiv.o
 
 ## French Alternative Energies and Atomic Energy Commission - Research Intern
 <img src="images/boiling_crisis.png" alt="boiling_crisis" width="500"/>
+
 Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
 * From March to August 2024 - Laboratory of Artificial Intelligence and Data Science. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
