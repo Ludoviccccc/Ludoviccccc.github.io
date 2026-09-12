@@ -10,7 +10,7 @@ I am seeking for an research job opportunities such a P.h.D in applied mathemati
  <img src="Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
  <img src="resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="imgep.png" alt="imgep" width="600"/>
 
-Space coverage of a simulated architecture interference behavior space controlled by pairs of simplified assembly instructions executed on parallel on two cores. IMGEP sampling distributions allow the discovery of many more behaviors than random sampling distributions.
+Space coverage of a simulated architecture interference behavior space controlled by pairs of simplified assembly instructions executed on parallel on two cores. IMGEP sampling distributions allow the discovery of many more behaviors than random sampling distributions than remain steady during the exploration.
 
 
 * From the 1st of February 2025 to the 30st of November 2026. [Flowers AI & CogSci Lab](https://www.inria.fr/en/flowers-ai-humans-curiosity-learning-cognitive-science). Inria Center at the University of Bordeaux, France
@@ -21,7 +21,7 @@ Space coverage of a simulated architecture interference behavior space controlle
 Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* [read](https://arxiv.org/abs/2609.08729)
 
 
-## French Alternative Energies and Atomic Energy Commission (CEA) - Research Intern
+## French Alternative Energies and Atomic Energy Commission - Research Intern
 ![All text](boiling_crisis.png)
 Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
 * From March to August 2024 - Laboratory of Artificial Intelligence and Data Science. Saclay, Île-de-France, France
