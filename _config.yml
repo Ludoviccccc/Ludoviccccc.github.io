@@ -5,7 +5,7 @@ title: Ludovic Matar
 email: ludovic.matar@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Discover about my projects and who I am
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ludoviccccc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  Ludoviccccc
