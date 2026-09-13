@@ -15,7 +15,7 @@ I am seeking for research job opportunities such as a P.h.D in applied mathemati
 <img src="images/resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="images/stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
  <img src="images/Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/>  |  <img src="images/imgep.png" alt="imgep" width="600"/>
 
-One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby, as some pairs of programs induce conflicts in shared resources known as interference events, an interference behavior space is being covered. For every combination of shared resources involved, there can be distinct interference events. The designed sampling distributions allow the discovery of many more distinct behaviors than random sampling distributions that remain steady during the exploration. On the top line, the example run illustration shows that many more interference were discoverd for the ddr scheduler by "imgep, k=1" than every other sampling distribution.
+One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby, as some pairs of programs induce conflicts in shared resources known as interference events, an interference behavior space is being covered. For every combination of shared resources involved, there can be distinct interference events. The designed sampling distributions allow the discovery of many more distinct behaviors than random sampling distributions that remain steady during the exploration process. On the top line, the example run illustration shows that many more interference were discoverd for the ddr scheduler by "imgep, k=1" than every other sampling distribution.
 
 
 * From the 1st of February 2025 to the 30st of November 2026. [Flowers AI & CogSci Lab](https://www.inria.fr/en/flowers-ai-humans-curiosity-learning-cognitive-science). Inria Center at the University of Bordeaux, France
@@ -41,7 +41,7 @@ autoencoders.
 * [read slides](/MatarLudovicPresentationStage.pdf){:target="_blank"}
 
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow :
-* Boiling phenomena analysis using machine learning. *Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc* [read abstract](https://cea.hal.science/cea-05283483v1)
+* *[Boiling phenomena analysis using machine learning. Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc](https://cea.hal.science/cea-05283483v1)*
 
 
 <img align="left" src="renault.png"  height="32"/>
