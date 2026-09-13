@@ -1,6 +1,6 @@
 ---
 title: My hobbies and interests
-description: some description
+description: Read about what I appreciate in life
 permalink: /my_interests/
 ---
-I am a big fan of classical music, and I try to experience it as much as I can by going to philarmonic concerts, and by practicing the piano, although I am far from being a professional. I feel really greateful for having enjoyed 
+I am a fan of classical music, and I try to experience it as much as I can by going to philarmonic concerts, and by practicing the piano, although I am far from being a professional. I feel greateful for having enjoyed 
