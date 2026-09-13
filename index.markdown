@@ -12,10 +12,10 @@ I am seeking for research job opportunities such as a P.h.D in applied mathemati
 <img align="left" src="inria.png"  height="16"/>
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
 
- <img src="images/Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="images/stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
- <img src="images/resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="images/imgep.png" alt="imgep" width="600"/>
+<img src="images/resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="images/stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
+ <img src="images/Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/>  |  <img src="images/imgep.png" alt="imgep" width="600"/>
 
-Space coverage of a simulated architecture interference behavior space controlled by pairs of simplified assembly instructions executed on parallel on two cores. IMGEP sampling distributions allow the discovery of many more behaviors than random sampling distributions than remain steady during the exploration.
+One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby,     as some pairs of programs induce conflicts known as interference events, an interference behavior space is being covered. The d    eisgned sampling distributions allow the discovery of many more distinct behaviors than random sampling distributions that rema    in steady during the exploration. On the top line, the example run illustration shows that
 
 
 * From the 1st of February 2025 to the 30st of November 2026. [Flowers AI & CogSci Lab](https://www.inria.fr/en/flowers-ai-humans-curiosity-learning-cognitive-science). Inria Center at the University of Bordeaux, France
