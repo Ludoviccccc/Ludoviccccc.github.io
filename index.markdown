@@ -9,6 +9,7 @@ I am seeking for research job opportunities such as a P.h.D in applied mathemati
 
 # Work Experiences
 
+<img align="left" src="inria.png"  height="16"/>
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
 
  <img src="images/Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/> |  <img src="images/stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
@@ -25,6 +26,7 @@ Space coverage of a simulated architecture interference behavior space controlle
 Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* [read](https://arxiv.org/abs/2609.08729)
 
 
+<img align="left" src="cea.svg"  height="32"/>
 ## French Alternative Energies and Atomic Energy Commission - Research Intern
 <img src="images/boiling_crisis.png" alt="boiling_crisis" width="500"/>
 
@@ -40,6 +42,7 @@ autoencoders.
 * Boiling phenomena analysis using machine learning. *Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc* [read abstract](https://cea.hal.science/cea-05283483v1)
 
 
+<img align="left" src="renault.png"  height="32"/>
 ## Renault SAS - Research Intern
 <img src="images/Back_field.png" alt="Back_field" width="300"/>
 <img src="images/Profile_fields.png" alt="Profile_fields" width="300"/>
