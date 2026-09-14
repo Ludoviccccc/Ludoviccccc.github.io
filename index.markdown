@@ -11,13 +11,6 @@ I am seeking for research job opportunities such as a P.h.D in applied mathemati
 
 <img align="left" src="inria.png"  height="16"/>
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
-
-<img src="images/resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="images/stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
- <img src="images/Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/>  |  <img src="images/imgep.png" alt="imgep" width="600"/>
-
-One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby, as some pairs of programs induce conflicts in shared resources known as interference events, an interference behavior space is being covered. For every combination of shared resources involved, there can be distinct interference events. The designed sampling distributions allow the discovery of many more distinct behaviors than random sampling distributions that remain steady during the exploration process. On the top line, the example run illustration shows that many more interference were discoverd for the ddr scheduler by "imgep, k=1" than every other sampling distribution.
-
-
 * From the 1st of February 2025 to the 30st of November 2026. [Flowers AI & CogSci Lab](https://www.inria.fr/en/flowers-ai-humans-curiosity-learning-cognitive-science). Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressors and reinforcement learning.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
@@ -25,12 +18,18 @@ One samples pairs of assembly programs to be executed on parallel on both core o
 * Previous Work [arxiv](https://arxiv.org/abs/2609.08729): *Application of curiosity driven exploration methods for hardware interference identification
 Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* 
 
+* Description: One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby, as some pairs of programs induce conflicts in shared resources known as interference events, an interference behavior space is being covered. For every combination of shared resources involved, there can be distinct interference events. The designed sampling distributions allow the discovery of many more distinct behaviors than random sampling distributions that remain steady during the exploration process. On the top line, the example run illustration shows that many more interference were discoverd for the ddr scheduler by "imgep, k=1" than every other sampling distribution.
+
+<img src="images/resource_combinations.png" alt="resource_combinations" width="300"/> |  <img src="images/stats_behaviors.png" alt="stats_behaviors_evolution" width="800"/>
+ <img src="images/Coverage_time_deltas.png" alt="Coverage_time_deltas" width="300"/>  |  <img src="images/imgep.png" alt="imgep" width="600"/>
+
+
+<br/>
+<br/>
+<br/>
 
 <img align="left" src="cea.svg"  height="32"/>
 ## French Alternative Energies and Atomic Energy Commission - Research Intern
-<img src="images/boiling_crisis.png" alt="boiling_crisis" width="500"/>
-
-Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
 * From March to August 2024 - Laboratory of Artificial Intelligence and Data Science. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
 * Works provided research tools for the Laboratory of Modeling and Simulation in Fluid Mechanics (CEA).
@@ -42,8 +41,13 @@ autoencoders.
 
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow :
 * *[Boiling phenomena analysis using machine learning. Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc](https://cea.hal.science/cea-05283483v1)*
+* Description: Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
+
+<img src="images/boiling_crisis.png" alt="boiling_crisis" width="500"/>
 
 
+<br/>
+<br/>
 <img align="left" src="renault.png"  height="32"/>
 ## Renault SAS - Research Intern
 <img src="images/Back_field.png" alt="Back_field" width="300"/>

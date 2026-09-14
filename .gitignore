@@ -1,1 +1,8 @@
 Gemfile.lock
+.index.markdown.swp
+_site/cea.svg
+_site/hobbies/
+_site/inria.png
+_site/my_interests/
+_site/renault.png
+.gitignore
