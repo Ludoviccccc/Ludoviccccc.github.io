@@ -17,6 +17,7 @@ plugins:
 - jekyll-seo-tag
 page:
   url: my_interests
+  url_education: my_education
 github:
   url: https://github.com/ludoviccccc
 # Exclude from processing.

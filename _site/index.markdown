@@ -7,6 +7,8 @@ Hi, I am Ludovic Matar. I aspire to work in a domain somewhere between applied m
 I am currently working as a Research and Development Machine Learning Engineer in Flowers AI & CogSci Lab at the French National Institute for Research in Digital Science and Technology (Inria).
 I am seeking for research job opportunities such as a P.h.D in applied mathematics.
 
+Contact: [ludovic.matar@yahoo.com](mailto:ludovic.matar@yahoo.com).
+
 # Work Experiences
 
 <img align="left" src="inria.png"  height="16"/>
@@ -15,8 +17,8 @@ I am seeking for research job opportunities such as a P.h.D in applied mathemati
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressors and reinforcement learning.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
-* Previous Work [arxiv](https://arxiv.org/abs/2609.08729): *Application of curiosity driven exploration methods for hardware interference identification
-Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer* 
+* Previous work on arxiv: *[Application of curiosity driven exploration methods for hardware interference identification
+Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer](https://arxiv.org/abs/2609.08729)*
 
 * Description: One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby, as some pairs of programs induce conflicts in shared resources known as interference events, an interference behavior space is being covered. For every combination of shared resources involved, there can be distinct interference events. The designed sampling distributions allow the discovery of many more distinct behaviors than random sampling distributions that remain steady during the exploration process. On the top line, the example run illustration shows that many more interference were discoverd for the ddr scheduler by "imgep, k=1" than every other sampling distribution.
 
