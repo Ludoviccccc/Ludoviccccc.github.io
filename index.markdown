@@ -35,7 +35,7 @@ Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer](https://arxiv.org/abs/
 * From March to August 2024 - Laboratory of Artificial Intelligence and Data Science. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
 * Works provided research tools for the Laboratory of Modeling and Simulation in Fluid Mechanics (CEA).
-* Deep learning methods (computer vision) were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with
+* Computer vision methods were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with
 autoencoders.
 * [read a summary](/MatarLudovicRapportDeStageCEA.pdf){:target="_blank"}
 
