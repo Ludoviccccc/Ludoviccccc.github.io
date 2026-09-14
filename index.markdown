@@ -7,6 +7,8 @@ Hi, I am Ludovic Matar. I aspire to work in a domain somewhere between applied m
 I am currently working as a Research and Development Machine Learning Engineer in Flowers AI & CogSci Lab at the French National Institute for Research in Digital Science and Technology (Inria).
 I am seeking for research job opportunities such as a P.h.D in applied mathematics.
 
+Contact: [ludovic.matar@yahoo.com](mailto:ludovic.matar@yahoo.com).
+
 # Work Experiences
 
 <img align="left" src="inria.png"  height="16"/>
