@@ -12,3 +12,6 @@ Second year of master’s Degree – Random Modeling Data Science (M2 MO, applie
 First year of master’s Degree – Mathematics Applied to Economics & Finance (M1 MAEF, with honors.)
 * 2017 – 2020 Université Paris-Saclay, Orsay
 Bachelor’s Degree - Mathematics (L3 MINT, with honors.)
+
+<br/>
+[read my CV](Matar_Ludovic_CV.pdf){:target="_blank"}
