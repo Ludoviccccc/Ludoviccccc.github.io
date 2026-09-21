@@ -15,7 +15,7 @@ Contact: [ludovic.matar@yahoo.com](mailto:ludovic.matar@yahoo.com).
 ## French National Institute for Research in Digital Science and Technology - R&D machine learning engineer
 * From the 1st of February 2025 to the 30st of November 2026. [Flowers AI & CogSci Lab](https://www.inria.fr/en/flowers-ai-humans-curiosity-learning-cognitive-science). Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressors and reinforcement learning.
-* Implemented algorithms produce databases with greater diversity measures than other methods. 
+* Implemented algorithms produce more diverse dataset of interference than steady sampling distributions.
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
 
 * [read slides](presentation_interference_project.pdf){:target="_blank"} about some of my recent approaches.
