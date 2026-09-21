@@ -17,8 +17,12 @@ Contact: [ludovic.matar@yahoo.com](mailto:ludovic.matar@yahoo.com).
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressors and reinforcement learning.
 * Implemented algorithms produce databases with greater diversity measures than other methods. 
 * Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
-* Previous work on arxiv: *[Application of curiosity driven exploration methods for hardware interference identification
-Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer](https://arxiv.org/abs/2609.08729)*
+
+* [read slides](presentation_interference_project.pdf){:target="_blank"} about some of my recent approaches.
+
+* Previous work on arxiv: *[Application of curiosity driven exploration methods for hardware interference identification Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer](https://arxiv.org/abs/2609.08729)*
+
+
 
 * Description: One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby, as some pairs of programs induce conflicts in shared resources known as interference events, an interference behavior space is being covered. There can be distinct interference events for every combination of involved shared resources. The designed sampling distribution within the algorithm architecture called *Intrinsically goal exploration process (imgep)* allow the discovery of many more distinct interference behaviors than other sampling distributions that remain steady during the exploration process. On the top line, the example run illustration shows that many more interference were discoverd for the ddr scheduler by "imgep, k=1" than every other sampling distribution.
 
@@ -35,18 +39,19 @@ Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer](https://arxiv.org/abs/
 * From March to August 2024 - Laboratory of Artificial Intelligence and Data Science. Saclay, Île-de-France, France
 * I developed machine learning models to characterize inherent mechanisms of heat exchange until the boiling crisis.
 * Works provided research tools for the Laboratory of Modeling and Simulation in Fluid Mechanics (CEA).
-* Computer vision methods were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with
-autoencoders.
-* [read a summary](/MatarLudovicRapportDeStageCEA.pdf){:target="_blank"}
+* Computer vision methods were used on infrared videos to extract latent space systems of differential equations capturing relevant dynamics by symbolic regression approaches. I used architectures such as CNNs, RNNs combined with autoencoders.
 
-* [read slides](/MatarLudovicPresentationStage.pdf){:target="_blank"}
+
+* [read a summary](MatarLudovicRapportDeStageCEA.pdf){:target="_blank"}
+
+* [read slides](MatarLudovicPresentationStage.pdf){:target="_blank"}
 
 * My works were used to synthesis an abstract for the 12th International Conference on Multiphase flow :
-* *[Boiling phenomena analysis using machine learning. Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc](https://cea.hal.science/cea-05283483v1)*
+* [Boiling phenomena analysis using machine learning. Elie Roumet, Ludovic Matar, Raksmy Nop, Geoffrey Daniel, Clément Gauchy, Nicolas Dorville, Marie-Christine Duluc](https://cea.hal.science/cea-05283483v1)
+
 * Description: Trajectory of a high speed shadowgraphy video in the 2D latent space of the autoencoder network
 
 <img src="images/boiling_crisis.png" alt="boiling_crisis" width="500"/>
-
 
 <br/>
 <br/>
