@@ -16,12 +16,12 @@ Contact: [ludovic.matar@yahoo.com](mailto:ludovic.matar@yahoo.com).
 * From the 1st of February 2025 to the 30st of November 2026. [Flowers AI & CogSci Lab](https://www.inria.fr/en/flowers-ai-humans-curiosity-learning-cognitive-science). Inria Center at the University of Bordeaux, France
 * I develop machine learning models to identify sources of interference occurring in simulated multi-core embedded architectures, using automated discovery methodology, that is, curiosity based algorithms. Ongoing methodology involves basic machine learning regressors and reinforcement learning.
 * Implemented algorithms produce more diverse dataset of interference than steady sampling distributions.
-* Monitoring a 6 months end-of-study internship. From the 1st of April to the 30th of September 2026.
 
 * [read slides](presentation_interference_project.pdf){:target="_blank"} about some of my recent approaches.
 
 * Previous work on arxiv: *[Application of curiosity driven exploration methods for hardware interference identification Ludovic Matar, Clement Moulin-Frier, Pierre-Yves Oudeyer](https://arxiv.org/abs/2609.08729)*
 
+* Monitoring a 6 months end-of-study internship for extending the open source library [adtool](https://github.com/flowersteam/adtool). [Read slides](adtool_pres.pdf). From the 1st of April to the 30th of September 2026.
 
 
 * Description: One samples pairs of assembly programs to be executed on parallel on both core of a simulated dual-core architecture. Thereby, as some pairs of programs induce conflicts in shared resources known as interference events, an interference behavior space is being covered. There can be distinct interference events for every combination of involved shared resources. The designed sampling distribution within the algorithm architecture called *Intrinsically goal exploration process (imgep)* allow the discovery of many more distinct interference behaviors than other sampling distributions that remain steady during the exploration process. On the top line, the example run illustration shows that many more interference were discoverd for the ddr scheduler by "imgep, k=1" than every other sampling distribution.
